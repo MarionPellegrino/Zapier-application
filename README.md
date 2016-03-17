@@ -11,4 +11,4 @@
 - Make Zap templates to help showcase the thousands of ways customers can use Zapier
 - Engage multiple users at once via chat to answer their questions and troubleshoot problems
 - Help resolve billing issues for customers over the phone
-- Recieve 20+ inbound phone calls per day and help them solve their issues
+- Write and maintain thousands of pages of help documentation
